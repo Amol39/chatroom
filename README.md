@@ -1,6 +1,14 @@
 # Chatroom Application
 
-A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients.
+This is a simple chatroom application built in C++ using the concepts of socket programming and multi-threading. It supports real-time communication among multiple clients over a network.
+
+## Features
+
+- **Real-time Chatting**: Enables users to communicate with each other in real-time.
+- **Multiple Clients**: Supports multiple clients simultaneously connecting to the server and chatting with each other.
+- **Server-Client Architecture**: Utilizes a server-client architecture for handling client connections and managing communication.
+- **Multi-Threading**: Uses multi-threading to handle multiple client connections efficiently.
+- **Error Handling**: Implements error handling mechanisms to ensure stability and reliability of the chatroom application.
 
 ## How to run
 
