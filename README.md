@@ -10,7 +10,7 @@ This is a simple chatroom application built in C++ using the concepts of socket 
 - **Multi-Threading**: Uses multi-threading to handle multiple client connections efficiently.
 - **Error Handling**: Implements error handling mechanisms to ensure stability and reliability of the chatroom application.
 
-![Screenshot 1](/images/screenshot1.png)
+![Screenshot 1]([/images/screenshot1.png](https://github.com/Amol39/chatroom/assets/86824259/3891efd9-ba47-46c0-97fc-b1595348ebde))
 
 
 ## How to run
