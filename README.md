@@ -15,8 +15,8 @@ This is a simple chatroom application built in C++ using the concepts of socket 
 1. Clone this repository
 2. Run the following commands in your terminal :
 ```
-g++ server.cpp -lpthread -o server
-g++ client.cpp -lpthread -o client
+g++ server.cpp -o server
+g++ client.cpp -o client
 ```
 3. To run the server application, use this command in the terminal :
 ```
@@ -29,3 +29,15 @@ g++ client.cpp -lpthread -o client
 ```
 
 5. For opening multiple client applications, repeat step 4.
+
+##Usage
+- Upon running the client application, you will be prompted to enter your name.
+- Once connected to the server, you can start chatting with other clients in the chatroom.
+- Type your message in the terminal and press Enter to send it.
+- To exit the chatroom, type #exit and press Enter.
+
+##Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you find any bugs or want to improve the application.
+
+
